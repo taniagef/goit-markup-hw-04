@@ -369,6 +369,7 @@ display: flex;
 {
   display: flex;
   gap: 120px;
+  align-items: baseline;
 }
 
 
@@ -613,7 +614,7 @@ background-color:#F4F4FD ;
 /* customers*/
 .customers-icon
 {
-  fill:#8E8F99; 
+  fill:currentColor
 }
 
 .customers-list
@@ -629,6 +630,7 @@ background-color:#F4F4FD ;
 .customers-link:hover,.customers-link:focus
 {
   border-color: #404BBF;
+  color: #404BBF;
 }
 .customers-link:hover .customers-icon ,.customers-link:focus .customers-icon
 {
@@ -643,7 +645,9 @@ background-color:#F4F4FD ;
   width: 100%;
   border: 1px solid #8E8F99;
   border-radius: 4px;
+  color: #8e8f99;
 }
+
 .customers
 {
   padding: 120px 0;
