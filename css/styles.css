@@ -368,14 +368,21 @@ display: flex;
 .footer-box
 {
   display: flex;
-  gap: 120px;
   align-items: baseline;
+}
+.promotion-box
+{
+  margin-right: 120px;
+}
+.title-footer
+{
+letter-spacing: 0.02em;
+margin-bottom: 16px;
 }
 
 
-
  
-    logo {
+    .logo {
       font-family: "Raleway", sans-serif;
       font-size: 18x;
       font-weight: 800;
