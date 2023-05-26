@@ -283,11 +283,14 @@ display: flex;
         border-radius: 50%;
         background-color:#4D5AE5;
       }
-      .social-link:hover,.social-link:focus
+       .social-link:hover,.social-link:focus
       {
         background-color: #404bbf;
       }
-  
+        .footer-social-list .social-link:hover,
+       .footer-social-list .social-link:focus {
+          background-color:#31D0AA;;
+        }
      .name {
        font-size: 20px;
        line-height: 1.2;
