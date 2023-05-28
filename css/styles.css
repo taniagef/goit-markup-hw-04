@@ -477,8 +477,9 @@ button:focus {
 .excellence-menu-section {
   padding: 120px 0;
 }
-/* exsellence ;enu ite; */
+/* exsellence .menu-item */
 .excellence-menu-item {
+  background-color: #f4f4fd;
   width: calc((100% - 72px) / 4);
 }
 
