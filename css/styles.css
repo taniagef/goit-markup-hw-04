@@ -331,7 +331,7 @@ address {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/img-name.jpeg);
+    url(./images/people-office.jpg);
   max-width: 1440px;
   background-repeat: no-repeat;
   background-position: center;
@@ -441,7 +441,6 @@ button:focus {
 }
 
 .team-menu-item {
-  background-color: #e7e9fc;
   width: calc((100%-72px) / 4);
   border-radius: 0px 0px 4px 4px;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
@@ -565,9 +564,6 @@ button:focus {
   row-gap: 48px;
 }
 /* 2section */
-.sample {
-  background-color: #f4f4fd;
-}
 .offers-samples {
   font-weight: 500;
   font-size: 20px;
