@@ -479,7 +479,6 @@ button:focus {
 }
 /* exsellence .menu-item */
 .excellence-menu-item {
-  background-color: #f4f4fd;
   width: calc((100% - 72px) / 4);
 }
 
@@ -658,6 +657,7 @@ button:focus {
   max-width: 264px;
 }
 .team-menu-section {
+  background-color: #f4f4fd;
   padding: 120px 0;
 }
 .container-li {
